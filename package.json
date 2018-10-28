@@ -1,0 +1,15 @@
+{
+  "author": "andrewyanushkevich",
+  "name": "codejam3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  }
+}
